@@ -1,0 +1,6 @@
+ALL includes .env
+
+level 1
+database encryption 
+hashing
+salting and hashing
